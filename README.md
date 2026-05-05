@@ -8,6 +8,10 @@
 
 Agent-based simulation of wildfire propagation across Montana landscapes, built in NetLogo for the Montana Models mathematics outreach program.
 
+![Poster presentation at the Leadership Alliance National Symposium, 2023](figures/poster_presentation.jpg)
+
+View the full research poster: [Modeling Wildfire Spread In Montana (PDF)](figures/Modeling_Wildfire_Spread_In_Montana.pdf)
+
 ---
 
 ## Overview
@@ -41,6 +45,15 @@ Users can adjust these parameters interactively and observe how changes in the l
 
 ---
 
+## Data Sources
+
+The Montana landscape used in the model was built from publicly available GIS data:
+
+- **Montana State Boundary** -- ArcGIS Hub, State of Montana Boundary shapefile
+- **National Forest and Range District Data** -- USGS ScienceBase, nfrd.zip shapefile
+
+---
+
 ## Program Context
 
 This research was conducted through the **Montana Models** program at Montana State University, which brings rural youth from across Montana to campus for a summer mathematics and mathematical modeling camp. The wildfire simulation was developed as an educational tool to make abstract modeling concepts tangible and relevant to students living in wildfire-prone regions.
@@ -52,6 +65,7 @@ The project was presented as a research poster at the **Leadership Alliance Nati
 ## Tools
 
 - **NetLogo** -- agent-based modeling environment
+- **ArcGIS / GIS shapefiles** -- Montana landscape data
 - Mathematical modeling principles applied to environmental systems
 
 ---
@@ -61,7 +75,8 @@ The project was presented as a research poster at the **Leadership Alliance Nati
 ```
 wildfire-spread-model/
 ├── figures/
-│   └── poster_presentation.jpg
+│   ├── poster_presentation.jpg
+│   └── Modeling_Wildfire_Spread_In_Montana.pdf
 ├── model/
 │   └── wildfire_montana.nlogo
 └── README.md
