@@ -8,9 +8,9 @@
 
 Agent-based simulation of wildfire propagation across Montana landscapes, built in NetLogo for the Montana Models mathematics outreach program.
 
-![Poster presentation at the Leadership Alliance National Symposium, 2023](figures/poster_presentation.jpg)
+![Poster presentation at the Leadership Alliance National Symposium, 2023](poster_presentation.jpg)
 
-View the full research poster: [Modeling Wildfire Spread In Montana (PDF)](figures/Modeling_Wildfire_Spread_In_Montana.pdf)
+View the full research poster: [Modeling Wildfire Spread In Montana (PDF)](Modeling Wildfire Spread In Montana.pdf)
 
 ---
 
