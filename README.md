@@ -10,7 +10,7 @@ Agent-based simulation of wildfire propagation across Montana landscapes, built 
 
 ![Poster presentation at the Leadership Alliance National Symposium, 2023](poster_presentation.jpg)
 
-View the full research poster: [Modeling Wildfire Spread In Montana (PDF)](Modeling Wildfire Spread In Montana.pdf)
+View the full research poster: [Modeling Wildfire Spread In Montana (PDF)](Modeling%20Wildfire%20Spread%20In%20Montana.pdf)
 
 ---
 
