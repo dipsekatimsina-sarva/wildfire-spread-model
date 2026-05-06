@@ -75,10 +75,8 @@ The project was presented as a research poster at the **Leadership Alliance Nati
 ```
 wildfire-spread-model/
 ├── figures/
-│   ├── poster_presentation.jpg
-│   └── Modeling_Wildfire_Spread_In_Montana.pdf
-├── model/
-│   └── wildfire_montana.nlogo
+├── poster_presentation.jpg
+├── Modeling Wildfire Spread In Montana.pdf
 └── README.md
 ```
 
